@@ -5,7 +5,7 @@
 - 🌱 I’m a begginer and I graduated as an Python application developer with OpenClassrooms
 - 📫 How to reach me:  
           - Gmail : winkelquentin@gmail.com  
-          - [Linkedin - Quentin WINKEL](https://linkedin.com/in/quentin-winkel)  
+          - [Linkedin - Quentin WINKEL](https://fr.linkedin.com/in/quentin-winkel-bab298114)  
 - ⚡ Fun fact: I worked for ten years in aeronautics before entering the world of computer development
 - 🔭 I’m currently working on my first application which will be available on browser
 
